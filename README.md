@@ -5,7 +5,7 @@
   <p> :label: I am full stack develoer </p>
   <p> :label: I live in Turkey </p>
   <p> :label: Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
-  <p> :label: I do paid projects, [discord](https://discord.com/users/1070795507082985524) for communication</p>
+  <p> :label: I do paid projects, discord for communication</p>
 
 
 <h1> ✍ Technologies I use </h1>
