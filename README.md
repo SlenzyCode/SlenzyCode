@@ -11,8 +11,5 @@
 <h1> ✍ Technologies I use </h1>
 <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
 
-<h1> :chart_with_upwards_trend: My stats </h1>
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,cs,mongodb,html,css,react,vscode,discord&theme=dark" />
-
 <h1> :gem: My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=Spestez&theme=onedark" />
