@@ -5,7 +5,7 @@
 <b class="width:10%">
 </b>
 <h2>My Skills</h2>
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb">
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,html,css">
 <ul>
  </ul>
 <br><br>
