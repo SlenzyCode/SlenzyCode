@@ -12,10 +12,8 @@
 <h2>About me</h2>
 <img width="20%" align="right" alt="Github" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxew-w5aO5ARRdSYPxaPh2pwS7MuAnQ3A2xyEXSQBCUeb4rEV-qIb3-Sy_3X8QBGsBtk" />
 <li><b>🔭 I’m currently working on: Full Stack App</li>
-<li><b>🌱 I’m currently learning:</b> Svelte</li>
-<li><b>👨‍💻 All of my projects are available at:</b> https://hasan-kilici.github.io</li>
-<li><b>😄 Fun fact:</b> I love Coding(💻), Traveling(🌍).</li>
-<li><b>💬 Ask me about anything:</b> <a href="https://discordapp.com/users/1097304620885356565">Here.</a></li>
+<li><b>🌱 I’m currently learning:</b> Php</li>
+<li><b>💬 Ask me about anything:</b> <a href="https://discordapp.com/users/1070795507082985524">Here.</a></li>
 <br><br><br><br><br><br>
 <h2>Stats</h2>
 <div align="center">
