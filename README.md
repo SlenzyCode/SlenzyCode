@@ -4,7 +4,7 @@
 <h1> :grey_question: About </h1>
   <p> :label: I am full stack developer </p>
   <p> :label: I live in Turkey </p>
-  <p> :label: Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
+  <p> :label: Favorite programming language <a href="https://tr.wikipedia.org/wiki/TypeScript"> TypeScript </a> </p>
   <p> :label: I do paid projects, discord for communication</p>
 
 
