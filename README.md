@@ -20,6 +20,3 @@
 
 <p align="center">
 <img  width="64%" alt="Hasan-kilici's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SlenzyCode&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><br><br>
-</p><br><br><br>
- <img src="https://github-profile-trophy.vercel.app/?username=SlenzyCodei&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
-</div>
