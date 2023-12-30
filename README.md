@@ -1,5 +1,5 @@
 <div class="float:left;width:600px">
-<a href="https://discordapp.com/users/1097304620885356565"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discordapp.com/users/1070795507082985524"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 </div>
 <b class="width:10%">
