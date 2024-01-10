@@ -19,4 +19,4 @@
 <div align="center">
 
 <p align="center">
-<img  width="64%" alt="Hasan-kilici's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SlenzyCode&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><br><br>
+<img  width="64%" alt="Hasan-kilici's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SlenzyCode&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
