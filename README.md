@@ -12,7 +12,7 @@
 <h2>About me</h2>
 <img width="20%" align="right" alt="Github" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxew-w5aO5ARRdSYPxaPh2pwS7MuAnQ3A2xyEXSQBCUeb4rEV-qIb3-Sy_3X8QBGsBtk" />
 <li><b>🔭 I’m currently working on: Full Stack App</li>
-<li><b>🌱 I’m currently learning:</b> Php</li>
+<li><b>🌱 I’m currently learning:</b> React</li>
 <li><b>💬 Ask me about anything:</b> <a href="https://discordapp.com/users/1070795507082985524">Here.</a></li>
 <br><br><br><br><br><br>
 <h2>Stats</h2>
