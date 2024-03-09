@@ -1,29 +1,35 @@
-<div class="float:left;width:600px">
-    <a href="https://discordapp.com/users/1070795507082985524">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-    </a>
-</div>
-<b class="width:10%"></b>
-<h2>My Skills</h2>
-<img src="https://skillicons.dev/icons?i=js">
-<ul>
-    <!-- Add your skills as list items -->
-    <li>JavaScript (JS)</li>
-</ul>
-<br><br>
-<h2>About me</h2>
-<div style="position: relative;">
-    <img width="20%" style="border-radius: 50%;" align="right" alt="Github" src="https://avatars.githubusercontent.com/u/137514443?v=4" />
-</div>
-<ul>
-    <li><b>🔭 I’m currently working on:</b> Developing a Full Stack App</li>
-    <li><b>🌱 I’m currently learning:</b> Advancing my skills in React</li>
-    <li><b>💬 Ask me about anything:</b> <a href="https://discordapp.com/users/1070795507082985524">Here</a></li>
-</ul>
-<br><br><br><br><br><br>
-<h2>Stats</h2>
+<h2 align="left">Hi there! I'm Slenzy, a Back-End Developer based in Kocaeli.</h2>
+
 <div align="center">
-    <p align="center">
-        <img  width="64%" alt="SlenzyCode's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SlenzyCode&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    </p>
+    <img src="https://github-readme-stats.vercel.app/api?username=SlenzyCode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
+        height="150" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SlenzyCode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+        height="150" alt="Top Languages" />
+</div>
+
+### Technologies & Tools
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30"
+        alt="Discord.js" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
+        alt="JavaScript" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"
+        alt="Node.js" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"
+        alt="MongoDB" />
+</div>
+
+### Connect with Me
+<div align="left">
+    <a href="https://www.youtube.com/@slenzyycode" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"
+            height="35" alt="YouTube" />
+    </a>
+    <a href="https://discord.com/users/1070795507082985524" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
+            height="35" alt="Discord" />
+    </a>
 </div>
