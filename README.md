@@ -5,8 +5,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlenzyCode&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
-### 🛠️ Technologies & Tools
 <div align="center">
+  ### 🛠️ Technologies & Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord.js" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" />
