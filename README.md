@@ -26,10 +26,10 @@
 
 ### 📫 Connect with Me
 <div align="left">
-  <a href="https://www.youtube.com/@slenzyycode" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://discord.com/users/1070795507082985524" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+<a href="https://www.youtube.com/@slenzyycode" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-d9343a?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://discord.com/users/1070795507082985524" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-1e68d6?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 </div>
