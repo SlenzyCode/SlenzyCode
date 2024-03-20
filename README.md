@@ -10,7 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord.js" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" />
-  <img src="https://i.pinimg.com/originals/b4/de/20/b4de205cb6d4e7cad43c2971f780cfd9.png"/>
+  <img src="https://i.pinimg.com/originals/b4/de/20/b4de205cb6d4e7cad43c2971f780cfd9.png" height="40" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" /> -->
 </div>
 
