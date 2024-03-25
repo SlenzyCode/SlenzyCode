@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi there, I'm Slenzy, a Full-Stack Developer from Kocaeli.</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SlenzyCode&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SlenzyCode&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="GitHub Stat's" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlenzyCode&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
