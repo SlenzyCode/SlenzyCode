@@ -3,8 +3,8 @@
 <p> A high school student ❤ </p>
   
 <h1> :grey_question: About </h1>
-  <p> :label: My name is Tolga </p>
-  <p> :nerd: I am back-end developer </p>
+  <p> :label: My name is İbrahim </p>
+  <p> :nerd: I am Full-Stack developer </p>
   <p> :flag_white: I live in Turkey </p>
   <p> :desktop: Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
 
