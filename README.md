@@ -1,19 +1,19 @@
 <div align="center">
-<h1> :wave: Hi, I’m @slenzy </h1>
+<h1> 👋 Hi, I’m @slenzy </h1>
 <p> A high school student ❤ </p>
   
-<h1> :grey_question: About </h1>
-  <p> :label: My name is İbrahim </p>
-  <p> :nerd: I am Full-Stack developer </p>
-  <p> :flag_white: I live in Turkey </p>
-  <p> :desktop: Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
+<h1> ❔ About </h1>
+  <p> 🏷️ My name is İbrahim </p>
+  <p> 🤓 I am Full-Stack developer </p>
+  <p> 🎌 I live in Turkey </p>
+  <p> 🖥️ Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
 
 
 <h1> ✍ Technologies I use </h1>
 <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
 
-<h1> :chart_with_upwards_trend: My stats </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=githubadresiniz&show_icons=true&theme=dark" />
+<h1> 📈 My stats </h1>
+<img src="https://github-readme-stats.vercel.app/api?username=SlenzyCode&show_icons=true&theme=dark" />
 
-<h1> :gem: My achievements </h1>
-<img src="https://github-profile-trophy.vercel.app/?username=githubadresiniz&theme=onedark" />
+<h1> 💎 My achievements </h1>
+<img src="https://github-profile-trophy.vercel.app/?username=SlenzyCode&theme=onedark" />
