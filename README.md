@@ -6,7 +6,7 @@
   <p> 🏷️ My name is İbrahim </p>
   <p> 🤓 I am Full-Stack developer </p>
   <p> 🎌 I live in Turkey </p>
-  <p> 🖥️ Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
+  <p> 🖥️ My favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
 
 
 <h1> ✍ Technologies I use </h1>
