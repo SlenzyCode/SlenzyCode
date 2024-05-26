@@ -1,4 +1,3 @@
-```html
 <div align="center">
 <h1> :wave: Hi, I’m @romanizm </h1>
 <p> A high school student trying to gradually learn to code ❤ </p>
@@ -18,4 +17,3 @@
 
 <h1> :gem: My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=githubadresiniz&theme=onedark" />
-```
