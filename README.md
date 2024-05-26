@@ -10,7 +10,7 @@
 
 
 <h1> ✍ Technologies I use </h1>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,html,css,vscode,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,html,css,tailwind&theme=dark" />
 
 <h1> 📈 My stats </h1>
 <img src="https://github-readme-stats.vercel.app/api?username=SlenzyCode&show_icons=true&theme=dark" />
