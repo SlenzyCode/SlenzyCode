@@ -1,6 +1,6 @@
 <div align="center">
 <h1> 👋 Hi, I’m @slenzy </h1>
-<h2> I am high school student❤ </h2>
+<h3> I am high school student❤ </h3>
   
 <h1> ❔ About </h1>
   <p> 🏷️ My name is İbrahim </p>
