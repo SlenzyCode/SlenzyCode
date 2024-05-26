@@ -1,6 +1,6 @@
 <div align="center">
-<h1> :wave: Hi, I’m @romanizm </h1>
-<p> A high school student trying to gradually learn to code ❤ </p>
+<h1> :wave: Hi, I’m @slenzy </h1>
+<p> A high school student ❤ </p>
   
 <h1> :grey_question: About </h1>
   <p> :label: My name is Tolga </p>
